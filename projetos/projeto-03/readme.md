@@ -198,11 +198,11 @@ Inclua também este aviso:
 
 ## 📍 Dados fictícios da loja
 
-- **Endereço:** Rua das Palmeiras, 245 — Centro — Cidade Exemplo/CE
+- **Endereço:** Alto do Morro da Paz, 67 — Centro — General Sampaio-CE
 - **Segunda a sábado:** 15h às 22h
 - **Domingo:** 17h às 21h
 - **Telefone:** (00) 90000-0000
-- **E-mail:** contato@salgaderiatentacao.exemplo
+- **E-mail:** contato@salgaderiatentacao.com
 
 > [!WARNING]
 > Não substitua esses dados por telefone, endereço, e-mail ou perfil pessoal de integrantes da equipe.
