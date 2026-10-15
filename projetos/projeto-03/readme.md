@@ -114,7 +114,7 @@ Apresente três produtos em destaque:
 Cada destaque deve ter imagem, nome e descrição. As imagens devem estar salvas dentro do projeto e possuir `alt` adequado.
 
 > [!WARNING]
-> Não utilize imagens geradas por inteligência artificial. Pesquise fotografias reais em fontes permitidas pelo professor e registre a origem em `FONTES.md`.
+> Não utilize imagens geradas por inteligência artificial. Pesquise fotografias reais e registre a origem em `FONTES.md`.
 
 ### RF05 — Cardápio completo
 
